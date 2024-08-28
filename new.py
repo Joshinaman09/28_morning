@@ -4,3 +4,6 @@ x = 30
 
 y = a+b
 print(y)
+
+
+print(a)
