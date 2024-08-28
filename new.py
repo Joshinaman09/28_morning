@@ -8,3 +8,5 @@ print(y)
 
 print(a)
 # VCS--> Version Control System
+# U --> Untracked File
+# A --> Track File
