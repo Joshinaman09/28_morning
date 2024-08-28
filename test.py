@@ -3,3 +3,6 @@ def new_test_fun(a,b):
         print(a)
     else:
         print(b)
+
+
+print('new')
